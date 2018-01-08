@@ -1,8 +1,14 @@
 body {
-  background-color: #A9A9A9;
+  background-image: url("http://www.onelifestyle.com.mx/wp-content/uploads/2014/12/NEW-BACKGROUND_psychology.jpg");
 }
 
 h1 {
   background-color: green;
 }
-Add box model and text align and font style
+
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
