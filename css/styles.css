@@ -1,9 +1,11 @@
 body {
   background-image: url("http://www.onelifestyle.com.mx/wp-content/uploads/2014/12/NEW-BACKGROUND_psychology.jpg");
+  font-family: Helvetica;
 }
 
-h1 {
-  background-color: green;
+
+h2 {
+  font-size: 25px;
 }
 
 div {
