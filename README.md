@@ -1,8 +1,8 @@
 # Project Name: Portfolio
 # _HTML, HTML5, with CSS stylesheet and Bootstrap styles_
 #### _HTML5, Current Version as of 14 January 2018_
-#### Author: Brittany Thirtyacre**_
-* _Buiding a portfolio website (compilation of three days of projects) ultilizing HTML/HTML5, Bootstrap and CSS stylesheet/selectors to_
+#### Author: Brittany Thirtyacre
+* _Building a portfolio website (compilation of three days of projects) ultilizing HTML/HTML5, Bootstrap and CSS stylesheet/selectors to_
 demonstrate current level of understanding.
 * _Creation of the following: a portfolio webpage using HTML and CSS, which will later act as the landing page of students' programming portfolio. Do not use a template to create your initial HTML and Bootstrap. Begin your work with an empty page and an initial empty commit._
 Inclusive of an accurately named CSS stylesheet and HTML file along with descriptive background, links to currently completed GitHub project pages,
