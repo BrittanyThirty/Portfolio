@@ -19,7 +19,7 @@ _Utilization of hypertext markup language HTML5 to incorporate block elements (i
 _the text editior Atom and utilizing GitHub, the web-based Git repository hosting service, providing the distributed revision control 
 _and SCM of Git alongside its own independent features (which is where you are presently viewing content)._
 of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including_
-### License: *_MIT License_*
+### License: *_Bootstrap under MIT License_*
 
 _Copyright (c) 2018 **_Brittany Thirtyacre_**_ Permission is hereby granted, free of charge, to any person obtaining a copy_
 of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including_
