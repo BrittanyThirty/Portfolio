@@ -4,7 +4,7 @@
 #### Author: Brittany Thirtyacre
 * _Building a portfolio website (compilation of three days of projects) ultilizing HTML/HTML5, Bootstrap and CSS stylesheet/selectors to_
 demonstrate current level of understanding.
-* _Creation of the following: a portfolio webpage using HTML and CSS, which will later act as the landing page of students' programming portfolio. Do not use a template to create your initial HTML and Bootstrap. Begin your work with an empty page and an initial empty commit._
+* _Creation of the following: a portfolio webpage using HTML and CSS, which will later act as the landing page of students' programming portfolio. 
 Inclusive of an accurately named CSS stylesheet and HTML file along with descriptive background, links to currently completed GitHub project pages,
 and a breif description of each project therein. 
 ## Setup/Installation Requirements
